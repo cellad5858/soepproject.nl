@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOEPproject</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>SOEPproject</h1>
+        <p>Gezelligheid in een Kom Soep! Doe mee met het SOEPproject en maak een verschil in uw buurt!</p>
+    </header>
+
+    <section class="content">
+        <h2>Wat is het SOEPproject?</h2>
+        <p>Het SOEPproject is speciaal opgezet voor mensen die alleen thuis wonen. Ons doel is om hen één keer per week een bord heerlijke soep aan te bieden en hen het gevoel te geven dat ze niet alleen zijn.</p>
+        <h2>Waarom Meedoen?</h2>
+        <ul>
+            <li>Gezelligheid: Ontmoet nieuwe mensen en maak nieuwe vrienden.</li>
+            <li>Lekker en Gezond: Geniet van een heerlijke kom soep, vers bereid door enthousiaste vrijwilligers.</li>
+            <li>Tegen Eenzaamheid: Samen zorgen we voor meer verbinding en minder eenzaamheid in de buurt.</li>
+        </ul>
+        <h2>Hoe Werkt Het?</h2>
+        <ol>
+            <li>Aanmelden: Schrijf u in om elke week een heerlijke kom soep te ontvangen.</li>
+            <li>Bezorging: Vrijwilligers bezorgen de soep bij u thuis.</li>
+            <li>Gezelschap: Geniet van een praatje en gezelligheid met de vrijwilligers tijdens de bezorging.</li>
+        </ol>
+        <h2>Wie Zijn Wij?</h2>
+        <p>Wij zijn een groep vrijwilligers die niet alleen een warme maaltijd willen bieden, maar ook een warme band met onze buurtgenoten willen opbouwen. Tijdens het uitdelen van de soep, oefenen wij onze Nederlandse taal en integreren we in de Nederlandse samenleving.</p>
+        <h2>Meld U Aan!</h2>
+        <p>Wilt u meedoen en genieten van een wekelijkse kom soep? Neem contact met ons op!</p>
+        <ul>
+            <li>Telefoon: 123-456-7890</li>
+            <li>E-mail: info@soepproject.nl</li>
+            <li>Website: www.soepproject.nl</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h2>Word Vrijwilliger!</h2>
+        <p>Wilt u een steentje bijdragen? We zijn altijd op zoek naar vrijwilligers die willen helpen soep te maken en uit te delen.</p>
+        <ul>
+            <li>Telefoon: 123-456-7890</li>
+            <li>E-mail: vrijwilligers@soepproject.nl</li>
+            <li>Website: www.soepproject.nl</li>
+        </ul>
+    </footer>
+</body>
+</html>
